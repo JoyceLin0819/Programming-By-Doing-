@@ -1,5 +1,0 @@
-    // string getName()
-        // {
-        //     return name;
-        // }
-        
